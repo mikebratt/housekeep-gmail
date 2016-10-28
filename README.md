@@ -5,8 +5,8 @@ Based on this post -> https://www.johneday.com/422/time-based-gmail-filters-with
 
  Usage:
 
-  Create a trigger to run Housekeep() to suit your needs
-  Add a deleteFrom call for each label you wish to housekeep
+  Create a trigger to run Housekeep() to suit your needs</br>
+  Add a deleteFrom call for each label you wish to housekeep:</br>
   deletefrom( Label, days_to_keep )
 
 
