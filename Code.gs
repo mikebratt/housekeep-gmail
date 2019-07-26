@@ -1,7 +1,7 @@
 /**
  * Housekeeping script for gmail.
  * 
- * Based on this post -> https://www.johneday.com/422/time-based-gmail-filters-with-google-apps-script
+ * Based on this post [link now dead] -> https://www.johneday.com/422/time-based-gmail-filters-with-google-apps-script
  *
  * Usage:
  *  Create a trigger to run Housekeep() to suit your needs
